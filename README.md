@@ -29,5 +29,5 @@ The system uses a **Terms and Conditions PDF** of a fictional company called **B
 
 ---
 
-## 📂 Project Structure
+
 
