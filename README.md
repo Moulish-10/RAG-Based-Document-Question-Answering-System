@@ -1,5 +1,3 @@
-# RAG-Based-Document-Question-Answering-System
-
 # BlueIT RAG-Based Q&A System 📄🤖
 
 This project demonstrates a **Retrieval-Augmented Generation (RAG)** based Question & Answer system that allows users to ask questions about a company document and receive accurate, context-aware answers.
